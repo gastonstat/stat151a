@@ -24,7 +24,7 @@
 :book: __READING__: 
 - Preliminary concepts
 
-:high_brightness: __TOPICS__:
+:pencil2: __TOPICS__:
 + __Preliminary Concepts__
 	- Intuition of regression
 	- Meaning of the term "linear"
@@ -44,7 +44,7 @@
 - Gauss-Markov assumptions in simple regression
 
 
-:high_brightness: __TOPICS__:
+:pencil2: __TOPICS__:
 + __Simple Linear Regression (SLR)__
   - Residual Sum of Squares
   - Least Squares estimates
@@ -70,7 +70,7 @@
 - Gauss-Markov assumptions in multiple regression
 
 
-:high_brightness: __TOPICS__:
+:pencil2: __TOPICS__:
 + __Multiple Linear Regression (MLR)__
   - Introduction to Mulriple Regression
   - Least Squares estimates
