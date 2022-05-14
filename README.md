@@ -36,7 +36,7 @@
 
 ## 2. Simple Linear Regression (SLR)
 
-:card_index: __ABOUT__: In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we will focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we'll discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
+:card_index: __ABOUT__: In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
 
 :book: __READING__: 
@@ -88,7 +88,7 @@
 
 :card_index: __ABOUT__: In this module, we begin the introduction of the Normal Theory (i.e. so-called Normality assumptions) for linear regression models. This involves assuming that random error terms are Normally distributed, which is a requirement in order to make inferences (e.g. confidence intervals, hypothesis tests) within regression modeling.
 
-We'll study how the Normality assumptions wrap a linear model with another layer of theoretical assumptions (we like to think of this as a second layer of "hard" statistical assumptions). This involves deriving Maximum Likelihood (ML) estimators, and also studying the distributions of the estimated regression quantities (e.g. coefficients, fitted values, residuals, sums of squares, etc).
+We study how the Normality assumptions wrap a linear model with another layer of theoretical assumptions (we like to think of this as a second layer of "hard" statistical assumptions). This involves deriving Maximum Likelihood (ML) estimators, and also studying the distributions of the estimated regression quantities (e.g. coefficients, fitted values, residuals, sums of squares, etc).
 
 :book: __READING__: 
 - Normality assumptions in simple regression
