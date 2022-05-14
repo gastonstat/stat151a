@@ -82,3 +82,27 @@
   - Gauss-Markov Theorem
 
 
+-----
+
+## 4. Normality Assumptions in Linear Regression
+
+:card_index: __ABOUT__: In this module, we begin the introduction of the Normal Theory (i.e. so-called Normality assumptions) for linear regression models. This involves assuming that random error terms are Normally distributed, which is a requirement in order to make inferences (e.g. confidence intervals, hypothesis tests) within regression modeling.
+
+We'll study how the Normality assumptions wrap a linear model with another layer of theoretical assumptions (we like to think of this as a second layer of "hard" statistical assumptions). This involves deriving Maximum Likelihood (ML) estimators, and also studying the distributions of the estimated regression quantities (e.g. coefficients, fitted values, residuals, sums of squares, etc).
+
+:book: __READING__: 
+- Normality assumptions in simple regression
+- Normality assumptions in multiple regression
+
+
+:pencil2: __TOPICS__:
++ __Normality assumptions in SLR__
+  - Normality assumptions
+  - Maximum Likelihood estimators
+  - Distributions of estimators
+  - Distributions of sum of squares
++ __Normality assumptions in MLR__
+  - Multivariate Normal distribution
+  - Distributions of estimators
+  - Distributions of sum of squares
+
