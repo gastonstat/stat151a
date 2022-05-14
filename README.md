@@ -276,7 +276,7 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 -----
 
-## 11. Logistic Regression
+## 11. Introduction to Logistic Regression
 
 :card_index: __ABOUT__: In this module, we transition into the so-called framework of Generalized Linear Models (GLM). Specifically, we start with regression models to predict a (binary) categorical predictor using the "plain vanilla" logistic regression model.
 
@@ -297,5 +297,55 @@ We study how the Normality assumptions wrap a linear model with another layer of
   - Coronary Heart Disease (chd) data
   - Fitting a logistic regression model
   - Interpretation of regression coefficients
+
+
+-----
+
+## 12. Estimation in Logistic Regression
+
+:card_index: __ABOUT__: In this week, we focus on the estimation of logistic regression models. The estimation criterion is based on maximum likelihood, which unfortunately cannot be solved analytically. Instead, we need to use numerical methods such as Newton's method (aka Newton-Raphson's method). This is the method behind what is perhaps the most common algorithm to estimate logistic regression models, namely: IWLS "Iterative Weighted Least Squares" (aka Iterative Re-weighted Least Squares, IRLS).
+
+<br>
+
+:book: __READING__: 
+- Estimation of Logistic Regression
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Maximum Likelihood estimation in Logistic Regression__
+  - Derivation of the (log)likelihood of a binary logistic regression model
+  - Limitation for maximizing log-likelihood analytically
+  - Estimation via numerical optimization methods (e.g. Newton's method)
+  - Review of Newton's method
++ __Numerical estimation in Logistic Regression__
+  - Newton's method to estimate a logistic regression model
+  - Iterative Weighted Least Squares (IWLS) algorithm
+
+
+-----
+
+## 13. Poisson Regression
+
+:card_index: __ABOUT__: This week we briefly describe poisson regression, and the theoretical framework of Generalized Linear Models (GLM). Much of what we've discussed about logistic regression applies to poisson regression, and to other members of GLM.
+
+<br>
+
+:book: __READING__:
+- Introduction to Poisson Regression
+- GLM Framework
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Poisson Regression__
+  - Derivation of the (log)likelihood of poisson regression model
+  - Limitation for maximizing log-likelihood analytically
+  - Estimation via numerical optimization methods (e.g. Newton's method)
+  - Review of Newton's method
++ __GLM Framework__
+  - Main components of a GLM (random component, linear predictor, and link function)
+  - Link functions, and their inverses, for linear regression, poisson regression, and logistic regression
+  - R functions `glm()` and their `summary()` outputs
 
 
