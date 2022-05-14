@@ -20,6 +20,7 @@
 - Define what a linear model is (in what sense a model is said to be linear)
 - Describe the high-level intuition of regression (and the regression function)
 
+<br>
 
 :book: __READING__: 
 - Preliminary concepts
@@ -40,6 +41,7 @@
 
 :card_index: __ABOUT__: In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
+<br>
 
 :book: __READING__: 
 - Geometry of simple regression
@@ -68,6 +70,8 @@
 :card_index: __ABOUT__: This week, we introduce the model-fitting aspects of __Multiple Linear Regression__. Like we did in the previous module, we postpone the discussion of the inferential aspects for later. We'll keep our focus on the method of (Ordinary) Least Squares to obtain the coefficients of a multiple linear model. Likewise, we'll continue to study the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
 
+<br>
+
 :book: __READING__: 
 - Geometry of multiple regression
 - Gauss-Markov assumptions in multiple regression
@@ -94,6 +98,8 @@
 
 We study how the Normality assumptions wrap a linear model with another layer of theoretical assumptions (we like to think of this as a second layer of "hard" statistical assumptions). This involves deriving Maximum Likelihood (ML) estimators, and also studying the distributions of the estimated regression quantities (e.g. coefficients, fitted values, residuals, sums of squares, etc).
 
+<br>
+
 :book: __READING__: 
 - Normality assumptions in simple regression
 - Normality assumptions in multiple regression
@@ -118,6 +124,8 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 :card_index: __ABOUT__: After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move on with the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
 
+<br>
+
 :book: __READING__: 
 - Confidence Intervals in regression models
 - Hypothesis Tests in regression models
@@ -133,4 +141,31 @@ We study how the Normality assumptions wrap a linear model with another layer of
   - Test for a single predictor
   - F-test for multiple predictors
   - F-test and anova test
+
+
+-----
+
+## 6. Dummy Variables and ANOVA
+
+:card_index: __ABOUT__: So far we've studied linear regression models under the implicit assumption that both the response and the predictors are quantitative variables. However, we still need to study what to do when we have one or more predictors that are qualitative (i.e. categorical).
+
+<br>
+
+:book: __READING__: 
+- Dummy Variables
+- ANOVA
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Dummy Variables__
+  - Dummy Regressors for categorical variables
+  - The use of dummy (i.e. binary) indicator variables
+  - Various types of encoding for categorical variables
++ __ANOVA__
+  - Introduction to ANOVA
+  - One-way anova: constraints, estimates, and dispersion
+  - Anova test
+
+
 
