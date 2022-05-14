@@ -24,6 +24,8 @@
 :book: __READING__: 
 - Preliminary concepts
 
+<br>
+
 :pencil2: __TOPICS__:
 + __Preliminary Concepts__
 	- Intuition of regression
@@ -43,6 +45,7 @@
 - Geometry of simple regression
 - Gauss-Markov assumptions in simple regression
 
+<br>
 
 :pencil2: __TOPICS__:
 + __Simple Linear Regression (SLR)__
@@ -69,6 +72,7 @@
 - Geometry of multiple regression
 - Gauss-Markov assumptions in multiple regression
 
+<br>
 
 :pencil2: __TOPICS__:
 + __Multiple Linear Regression (MLR)__
@@ -94,6 +98,7 @@ We study how the Normality assumptions wrap a linear model with another layer of
 - Normality assumptions in simple regression
 - Normality assumptions in multiple regression
 
+<br>
 
 :pencil2: __TOPICS__:
 + __Normality assumptions in SLR__
@@ -105,4 +110,27 @@ We study how the Normality assumptions wrap a linear model with another layer of
   - Multivariate Normal distribution
   - Distributions of estimators
   - Distributions of sum of squares
+
+
+-----
+
+## 5. Inference in Linear Regression Models
+
+:card_index: __ABOUT__: After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move on with the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
+
+:book: __READING__: 
+- Confidence Intervals in regression models
+- Hypothesis Tests in regression models
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Confidence Intervals__
+  - Confidence intervals for regression coefficients
+  - Meaning of "predictions"
+  - Intervals for predictions
++ __Hypothesis Tests__
+  - Test for a single predictor
+  - F-test for multiple predictors
+  - F-test and anova test
 
