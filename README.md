@@ -3,8 +3,7 @@
 - Description: This is a course on linear models as well as generalized linear models and their application. Topics include linear regression and modeling, visualization and diagnostics, confidence intervals and hypothesis, analysis of variance, dealing with large number of predictors, and generalized linear models.
 - Instructor: Gaston Sanchez
 - Lecture: 2 days p/week; 1.5 hours each day
-- Up to 2 midterm exams
-- One final exam
+- Exams: Up to 2 midterm exams, and final test
 - Primary notes/texts:
     + Prof. Sanchez's notes
 - Secondary texts: 
