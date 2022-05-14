@@ -168,4 +168,134 @@ We study how the Normality assumptions wrap a linear model with another layer of
   - Anova test
 
 
+-----
+
+## 7. Residual Analysis and Diagnostic Tools
+
+:card_index: __ABOUT__: The estimation of and inference from the regression model depend on several assumptions. These assumptions should be checked using regression diagnostics before using the model in earnest. This week, we cover diagnostic tools for assessing the validity of assumptions about the model specification, the error terms, and issues with unusual and influential observations.
+
+<br>
+
+:book: __READING__: 
+- Residual Analysis (part 1)
+- Residual Analysis (part 2)
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Residual Analysis (part 1)__
+  - Problems in regression analysis
+  - Residuals and Leverages
+  - Types of residuals
+  - Basic residual plots
++ __Residual Analysis (part 2)__
+  - Detecting heteroscedasticity
+  - Detecting non-normality
+  - Detecting unusual observations
+  - Detecting influential observations
+
+
+-----
+
+## 8. Multicollinearity
+
+:card_index: __ABOUT__: Previously, we mentioned that one class of problematic issues in regression has to do with the __Rank__ assumption of the design matrix __X__ (full rank). This week, we discuss in what way not having a full rank matrix __X__ affects the estimated regression quantities. More specifically, we'll study the common issue of dealing with multicollinearity.
+
+<br>
+
+:book: __READING__: 
+- The Sum-of-Squares-and-Cross-Products (SSCP) matrix __X'X__
+- Multicollinearity
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Review of the SSCP matrix__
+  - The Sum-of-Squares-and-Cross-Products (SSCP) matrix
+  - SSCP and friends
+  - Notion and measures of multidimensional scatter
+  - Eigenstructure of the SSCP matrix
++ __Multicollinearity__
+  - What is multicollinearity
+  - Examples of multicollinearity
+  - Variance Inflation Fator (VIF)
+  - Singular Value Decomposition (SVD) and multicollinearity
+
+
+-----
+
+## 9. Dealing with Multicollinearity
+
+:card_index: __ABOUT__: In this module, we continue the discussion about multicollinearity. More specifically, we describe two methods, Principal Components Regression (PCR) and Ridge Regression (RR), that allow us to overcome some of the obstacles posed when dealing with multicollinearity.
+
+<br>
+
+:book: __READING__: 
+- Principal Components Analysis (PCA)
+- Ridge Regression
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Use of PCA to deal with multicollinearity__
+  - Crash introduction to Principal Components Analysis
+  - PCA and EVD
+  - Geometry of PCA
+  - Use of PCA for regression analysis
++ __Ridge Regression__
+  - Introduction to Ridge Regression
+  - Mean-Square-Error (MSE) in Ridge Regression
+  - Geometry of Ridge Regression
+  - Solution of Ridge Regression
+
+
+-----
+
+## 10. Variable Selection and Model Building
+
+:card_index: __ABOUT__: In this module, we go over common methods for selecting variables, comparing models of different sizes (i.e. different number of predictors), and choosing the "best" model.
+
+<br>
+
+:book: __READING__: 
+- Model Choice Criteria
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Model Selection__
+  - Introduction to model selection
+  - Predictive performance
+  - Limitations of _R2_ for comparing models of different number of predictors
++ __Model Comparison Criteria__
+  - Adjusted R-squared
+  - Mallows's _Cp_
+  - Akaike Information Criterion (AIC)
+  - Bayesian Information Criterion (BIC)
+
+
+-----
+
+## 11. Logistic Regression
+
+:card_index: __ABOUT__: In this module, we transition into the so-called framework of Generalized Linear Models (GLM). Specifically, we start with regression models to predict a (binary) categorical predictor using the "plain vanilla" logistic regression model.
+
+<br>
+
+:book: __READING__: 
+- Logistic Regression
+- Logistic Regression toy example
+
+<br>
+
+:pencil2: __TOPICS__:
++ __Logistic Regression__
+  - Limitations of a linear model when applied on a binary response variable
+  - Core idea to formulate a binary regression model with a logistic function
+  - The Logistic regression model
++ __Logistic Regression Example__
+  - Coronary Heart Disease (chd) data
+  - Fitting a logistic regression model
+  - Interpretation of regression coefficients
+
 
