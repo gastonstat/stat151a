@@ -34,9 +34,9 @@
 
 -----
 
-## 2. Simple Regression
+## 2. Simple Linear Regression (SLR)
 
-:speaker: __ABOUT__: In this week, we introduce the descriptive aspects of a Simple Linear Regression model. This involves postponing the discussion of inferential aspects for later. In particular, we will focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we'll discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
+:speaker: __ABOUT__: In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we will focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we'll discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
 
 :book: __READING__: 
@@ -45,16 +45,40 @@
 
 
 :speech_balloon: __TOPICS__:
-+ __Simple Linear Regression__
-	- Residual Sum of Squares
-	- Least Squares estimates
-	- Geometry of simple OLS
-	- Analysis of Variance decomposition
-+ __Simple Linear Regression under GM assumptions__
++ __Simple Linear Regression (SLR)__
+  - Residual Sum of Squares
+  - Least Squares estimates
+  - Geometry of simple OLS
+  - Analysis of Variance decomposition
++ __SLR under GM assumptions__
   - Gauss Markov Assumptions
   - Properties of OLS coefficients
   - Properties of OLS estimates
   - Estimate of standard deviation (sigma)
+  - Gauss-Markov Theorem
+
+
+-----
+
+## 3. Multiple Linear Regression (MLR)
+
+:speaker: __ABOUT__: This week, we introduce the model-fitting aspects of __Multiple Linear Regression__. Like we did in the previous module, we postpone the discussion of the inferential aspects for later. We'll keep our focus on the method of (Ordinary) Least Squares to obtain the coefficients of a multiple linear model. Likewise, we'll continue to study the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
+
+
+:book: __READING__: 
+- Geometry of multiple regression
+- Gauss-Markov assumptions in multiple regression
+
+
+:speech_balloon: __TOPICS__:
++ __Multiple Linear Regression (MLR)__
+  - Introduction to Mulriple Regression
+  - Least Squares estimates
+  - Geometry of simple OLS
++ __SLR under GM assumptions__
+  - Properties of OLS coefficients
+  - Properties of OLS estimates (y-hat and residuals)
+  - Estimate of variance
   - Gauss-Markov Theorem
 
 
