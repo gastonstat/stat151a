@@ -38,7 +38,9 @@
 
 ## 2. Simple Linear Regression (SLR)
 
-:card_index: __ABOUT__: In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
+:card_index: __ABOUT__: 
+
+In this week, we introduce the descriptive aspects of a __Simple Linear Regression__ model. This involves postponing the discussion of inferential aspects for later. In particular, we focus on the method of (Ordinary) Least Squares to obtain the estimated coefficients of a simple linear model. Likewise, we discuss the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
 <br>
 
@@ -66,7 +68,9 @@
 
 ## 3. Multiple Linear Regression (MLR)
 
-:card_index: __ABOUT__: This week, we introduce the model-fitting aspects of __Multiple Linear Regression__. Like we did in the previous module, we postpone the discussion of the inferential aspects for later. We'll keep our focus on the method of (Ordinary) Least Squares to obtain the coefficients of a multiple linear model. Likewise, we'll continue to study the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
+:card_index: __ABOUT__: 
+
+This week, we introduce the model-fitting aspects of __Multiple Linear Regression__. Like we did in the previous module, we postpone the discussion of the inferential aspects for later. We'll keep our focus on the method of (Ordinary) Least Squares to obtain the coefficients of a multiple linear model. Likewise, we'll continue to study the geometric aspects of OLS, and understand how the Gauss-Markov assumptions wrap a linear model with a first layer of "soft" statistical assumptions.
 
 
 <br>
@@ -93,7 +97,9 @@
 
 ## 4. Normality Assumptions in Linear Regression
 
-:card_index: __ABOUT__: In this module, we begin the introduction of the Normal Theory (i.e. so-called Normality assumptions) for linear regression models. This involves assuming that random error terms are Normally distributed, which is a requirement in order to make inferences (e.g. confidence intervals, hypothesis tests) within regression modeling.
+:card_index: __ABOUT__: 
+
+In this module, we begin the introduction of the Normal Theory (i.e. so-called Normality assumptions) for linear regression models. This involves assuming that random error terms are Normally distributed, which is a requirement in order to make inferences (e.g. confidence intervals, hypothesis tests) within regression modeling.
 
 We study how the Normality assumptions wrap a linear model with another layer of theoretical assumptions (we like to think of this as a second layer of "hard" statistical assumptions). This involves deriving Maximum Likelihood (ML) estimators, and also studying the distributions of the estimated regression quantities (e.g. coefficients, fitted values, residuals, sums of squares, etc).
 
@@ -121,7 +127,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 5. Inference in Linear Regression Models
 
-:card_index: __ABOUT__: After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move on with the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
+:card_index: __ABOUT__: 
+
+After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move on with the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
 
 <br>
 
@@ -146,7 +154,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 6. Dummy Variables and ANOVA
 
-:card_index: __ABOUT__: So far we've studied linear regression models under the implicit assumption that both the response and the predictors are quantitative variables. However, we still need to study what to do when we have one or more predictors that are qualitative (i.e. categorical).
+:card_index: __ABOUT__: 
+
+So far we've studied linear regression models under the implicit assumption that both the response and the predictors are quantitative variables. However, we still need to study what to do when we have one or more predictors that are qualitative (i.e. categorical).
 
 <br>
 
@@ -171,7 +181,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 7. Residual Analysis and Diagnostic Tools
 
-:card_index: __ABOUT__: The estimation of and inference from the regression model depend on several assumptions. These assumptions should be checked using regression diagnostics before using the model in earnest. This week, we cover diagnostic tools for assessing the validity of assumptions about the model specification, the error terms, and issues with unusual and influential observations.
+:card_index: __ABOUT__: 
+
+The estimation of and inference from the regression model depend on several assumptions. These assumptions should be checked using regression diagnostics before using the model in earnest. This week, we cover diagnostic tools for assessing the validity of assumptions about the model specification, the error terms, and issues with unusual and influential observations.
 
 <br>
 
@@ -198,7 +210,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 8. Multicollinearity
 
-:card_index: __ABOUT__: Previously, we mentioned that one class of problematic issues in regression has to do with the __Rank__ assumption of the design matrix __X__ (full rank). This week, we discuss in what way not having a full rank matrix __X__ affects the estimated regression quantities. More specifically, we'll study the common issue of dealing with multicollinearity.
+:card_index: __ABOUT__: 
+
+Previously, we mentioned that one class of problematic issues in regression has to do with the __Rank__ assumption of the design matrix __X__ (full rank). This week, we discuss in what way not having a full rank matrix __X__ affects the estimated regression quantities. More specifically, we'll study the common issue of dealing with multicollinearity.
 
 <br>
 
@@ -225,7 +239,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 9. Dealing with Multicollinearity
 
-:card_index: __ABOUT__: In this module, we continue the discussion about multicollinearity. More specifically, we describe two methods, Principal Components Regression (PCR) and Ridge Regression (RR), that allow us to overcome some of the obstacles posed when dealing with multicollinearity.
+:card_index: __ABOUT__: 
+
+In this module, we continue the discussion about multicollinearity. More specifically, we describe two methods, Principal Components Regression (PCR) and Ridge Regression (RR), that allow us to overcome some of the obstacles posed when dealing with multicollinearity.
 
 <br>
 
@@ -252,7 +268,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 10. Variable Selection and Model Building
 
-:card_index: __ABOUT__: In this module, we go over common methods for selecting variables, comparing models of different sizes (i.e. different number of predictors), and choosing the "best" model.
+:card_index: __ABOUT__: 
+
+In this module, we go over common methods for selecting variables, comparing models of different sizes (i.e. different number of predictors), and choosing the "best" model.
 
 <br>
 
@@ -277,7 +295,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 11. Introduction to Logistic Regression
 
-:card_index: __ABOUT__: In this module, we transition into the so-called framework of Generalized Linear Models (GLM). Specifically, we start with regression models to predict a (binary) categorical predictor using the "plain vanilla" logistic regression model.
+:card_index: __ABOUT__: 
+
+In this module, we transition into the so-called framework of Generalized Linear Models (GLM). Specifically, we start with regression models to predict a (binary) categorical predictor using the "plain vanilla" logistic regression model.
 
 <br>
 
@@ -302,7 +322,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 12. Estimation in Logistic Regression
 
-:card_index: __ABOUT__: In this week, we focus on the estimation of logistic regression models. The estimation criterion is based on maximum likelihood, which unfortunately cannot be solved analytically. Instead, we need to use numerical methods such as Newton's method (aka Newton-Raphson's method). This is the method behind what is perhaps the most common algorithm to estimate logistic regression models, namely: IWLS "Iterative Weighted Least Squares" (aka Iterative Re-weighted Least Squares, IRLS).
+:card_index: __ABOUT__: 
+
+In this week, we focus on the estimation of logistic regression models. The estimation criterion is based on maximum likelihood, which unfortunately cannot be solved analytically. Instead, we need to use numerical methods such as Newton's method (aka Newton-Raphson's method). This is the method behind what is perhaps the most common algorithm to estimate logistic regression models, namely: IWLS "Iterative Weighted Least Squares" (aka Iterative Re-weighted Least Squares, IRLS).
 
 <br>
 
@@ -326,7 +348,9 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 ## 13. Poisson Regression
 
-:card_index: __ABOUT__: This week we briefly describe poisson regression, and the theoretical framework of Generalized Linear Models (GLM). Much of what we've discussed about logistic regression applies to poisson regression, and to other members of GLM.
+:card_index: __ABOUT__: 
+
+This week we briefly describe poisson regression, and the theoretical framework of Generalized Linear Models (GLM). Much of what we've discussed about logistic regression applies to poisson regression, and to other members of GLM.
 
 <br>
 
