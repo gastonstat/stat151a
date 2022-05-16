@@ -129,7 +129,7 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 :card_index: __ABOUT__: 
 
-After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move on with the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
+After reviewing the normality assumptions in regression models and how they affect the distributions of various estimates, we move onto the inferential aspects. In this module we describe how to construct confidence intervals and how to make hypothesis tests.
 
 <br>
 
