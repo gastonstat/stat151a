@@ -1,22 +1,22 @@
 # STAT 151A - Linear Modeling: Theory and Applications
 
-- Description: This is a course on linear models as well as generalized linear models and their application. Topics include linear regression and modeling, visualization and diagnostics, confidence intervals and hypothesis, analysis of variance, dealing with large number of predictors, and generalized linear models.
+- __Description__: This is a course on linear models as well as generalized linear models and their application. Topics include linear regression and modeling, visualization and diagnostics, confidence intervals and hypothesis, analysis of variance, dealing with large number of predictors, and generalized linear models.
 
-- Instructor: Gaston Sanchez
+- __Instructor__: Gaston Sanchez
 
-- Lecture: 2 days p/week; 1.5 hours each day
+- __Lecture__: 2 days p/week; 1.5 hours each day
 
-- Lab: weekly computer lab sessions
+- __Lab__: weekly computer lab sessions
 
-- Assignments: biweekly HW assignments
+- __Assignments__: biweekly HW assignments
 
-- Exams: Up to 2 midterm exams, and final test
+- __Exams__: Up to 2 midterm exams, and final test
 
-- Notes and texts:
+- __Notes and texts__:
     + Prof. Sanchez's notes
     + Applied Regression Analysis and Generalized Linear Models (by John Fox)
 
-- Prerequisites: Statistical and Probability Theory, as well as Linear Algebra. It owuld also be nice to have some familiarity with R.
+- __Prerequisites__: Statistical and Probability Theory, as well as Linear Algebra. It owuld also be nice to have some familiarity with R.
 
 
 -----
