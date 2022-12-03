@@ -6,6 +6,10 @@
 
 - Lecture: 2 days p/week; 1.5 hours each day
 
+- Lab: weekly computer lab sessions
+
+- Assignments: biweekly HW assignments
+
 - Exams: Up to 2 midterm exams, and final test
 
 - Notes and texts:
