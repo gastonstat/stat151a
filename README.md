@@ -8,10 +8,8 @@
 
 - Exams: Up to 2 midterm exams, and final test
 
-- Primary notes/texts:
+- Notes and texts:
     + Prof. Sanchez's notes
-
-- Secondary texts: 
     + Applied Regression Analysis and Generalized Linear Models (by John Fox)
 
 - Prerequisites: Statistical and Probability Theory, as well as Linear Algebra. It owuld also be nice to have some familiarity with R.
