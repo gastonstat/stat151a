@@ -21,12 +21,15 @@
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapters 1 and 4
 - Preliminary concepts
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Preliminary Concepts__
 	- Intuition of regression
 	- Meaning of the term "linear"
@@ -44,13 +47,16 @@ In this week, we introduce the descriptive aspects of a __Simple Linear Regressi
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapters 5.1 and 10.1
 - Geometry of simple regression
 - Gauss-Markov assumptions in simple regression
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Simple Linear Regression (SLR)__
   - Residual Sum of Squares
   - Least Squares estimates
@@ -75,13 +81,16 @@ This week, we introduce the model-fitting aspects of __Multiple Linear Regressio
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapters 5.2 and 10.2 and 10.33
 - Geometry of multiple regression
 - Gauss-Markov assumptions in multiple regression
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Multiple Linear Regression (MLR)__
   - Introduction to Mulriple Regression
   - Least Squares estimates
@@ -105,13 +114,16 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 6
 - Normality assumptions in simple regression
 - Normality assumptions in multiple regression
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Normality assumptions in SLR__
   - Normality assumptions
   - Maximum Likelihood estimators
@@ -133,13 +145,16 @@ After reviewing the normality assumptions in regression models and how they affe
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 6
 - Confidence Intervals in regression models
 - Hypothesis Tests in regression models
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Confidence Intervals__
   - Confidence intervals for regression coefficients
   - Meaning of "predictions"
@@ -160,13 +175,16 @@ So far we've studied linear regression models under the implicit assumption that
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapters 7 and 8
 - Dummy Variables
 - ANOVA
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Dummy Variables__
   - Dummy Regressors for categorical variables
   - The use of dummy (i.e. binary) indicator variables
@@ -187,13 +205,16 @@ The estimation of and inference from the regression model depend on several assu
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapters 11 and 12
 - Residual Analysis (part 1)
 - Residual Analysis (part 2)
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Residual Analysis (part 1)__
   - Problems in regression analysis
   - Residuals and Leverages
@@ -216,13 +237,16 @@ Previously, we mentioned that one class of problematic issues in regression has 
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 13
 - The Sum-of-Squares-and-Cross-Products (SSCP) matrix __X'X__
 - Multicollinearity
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Review of the SSCP matrix__
   - The Sum-of-Squares-and-Cross-Products (SSCP) matrix
   - SSCP and friends
@@ -245,13 +269,16 @@ In this module, we continue the discussion about multicollinearity. More specifi
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 13.1 and 13.2.3
 - Principal Components Analysis (PCA)
 - Ridge Regression
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Use of PCA to deal with multicollinearity__
   - Crash introduction to Principal Components Analysis
   - PCA and EVD
@@ -274,12 +301,15 @@ In this module, we go over common methods for selecting variables, comparing mod
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 22.1
 - Model Choice Criteria
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Model Selection__
   - Introduction to model selection
   - Predictive performance
@@ -301,13 +331,16 @@ In this module, we transition into the so-called framework of Generalized Linear
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 14.1
 - Logistic Regression
 - Logistic Regression toy example
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Logistic Regression__
   - Limitations of a linear model when applied on a binary response variable
   - Core idea to formulate a binary regression model with a logistic function
@@ -328,12 +361,15 @@ In this week, we focus on the estimation of logistic regression models. The esti
 
 <br>
 
-:book: __READING__: 
+:book: __READING__:
+
+- Chapter 14.1
 - Estimation of Logistic Regression
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Maximum Likelihood estimation in Logistic Regression__
   - Derivation of the (log)likelihood of a binary logistic regression model
   - Limitation for maximizing log-likelihood analytically
@@ -355,12 +391,15 @@ This week we briefly describe poisson regression, and the theoretical framework 
 <br>
 
 :book: __READING__:
+
+- Chapter 15
 - Introduction to Poisson Regression
 - GLM Framework
 
 <br>
 
 :pencil2: __TOPICS__:
+
 + __Poisson Regression__
   - Derivation of the (log)likelihood of poisson regression model
   - Limitation for maximizing log-likelihood analytically
