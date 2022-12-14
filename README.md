@@ -4,9 +4,9 @@
 
 - __Instructor__: Gaston Sanchez
 
-- __Lecture__: 2 days p/week; 1.5 hours each day
+- __Lecture__: 3 hours of lecture per week
 
-- __Lab__: weekly computer lab sessions
+- __Lab__: 2 hours of computer lab sessions
 
 - __Assignments__: biweekly HW assignments
 
@@ -18,8 +18,11 @@
 
 - __Prerequisites__: Statistical and Probability Theory, as well as Linear Algebra. It owuld also be nice to have some familiarity with R.
 
+- __LMS__: the specific learning resources of a given semester are shared in the Learning Management Sysment (LMS) approved by Campus authorities (e.g. bCourses, Canvas)
+
 
 -----
+
 
 ## 1. Introduction
 
@@ -47,6 +50,7 @@
 
 
 -----
+
 
 ## 2. Simple Linear Regression (SLR)
 
@@ -81,6 +85,7 @@ In this week, we introduce the descriptive aspects of a __Simple Linear Regressi
 
 -----
 
+
 ## 3. Multiple Linear Regression (MLR)
 
 :card_index: __ABOUT__: 
@@ -112,6 +117,7 @@ This week, we introduce the model-fitting aspects of __Multiple Linear Regressio
 
 
 -----
+
 
 ## 4. Normality Assumptions in Linear Regression
 
@@ -146,6 +152,7 @@ We study how the Normality assumptions wrap a linear model with another layer of
 
 -----
 
+
 ## 5. Inference in Linear Regression Models
 
 :card_index: __ABOUT__: 
@@ -176,6 +183,7 @@ After reviewing the normality assumptions in regression models and how they affe
 
 -----
 
+
 ## 6. Dummy Variables and ANOVA
 
 :card_index: __ABOUT__: 
@@ -205,6 +213,7 @@ So far we've studied linear regression models under the implicit assumption that
 
 
 -----
+
 
 ## 7. Residual Analysis and Diagnostic Tools
 
@@ -238,6 +247,7 @@ The estimation of and inference from the regression model depend on several assu
 
 -----
 
+
 ## 8. Multicollinearity
 
 :card_index: __ABOUT__: 
@@ -269,6 +279,7 @@ Previously, we mentioned that one class of problematic issues in regression has 
 
 
 -----
+
 
 ## 9. Dealing with Multicollinearity
 
@@ -302,6 +313,7 @@ In this module, we continue the discussion about multicollinearity. More specifi
 
 -----
 
+
 ## 10. Variable Selection and Model Building
 
 :card_index: __ABOUT__: 
@@ -331,6 +343,7 @@ In this module, we go over common methods for selecting variables, comparing mod
 
 
 -----
+
 
 ## 11. Introduction to Logistic Regression
 
@@ -362,6 +375,7 @@ In this module, we transition into the so-called framework of Generalized Linear
 
 -----
 
+
 ## 12. Estimation in Logistic Regression
 
 :card_index: __ABOUT__: 
@@ -390,6 +404,7 @@ In this week, we focus on the estimation of logistic regression models. The esti
 
 
 -----
+
 
 ## 13. Poisson Regression
 
