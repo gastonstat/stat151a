@@ -2,7 +2,7 @@
 
 - __Description__: This is a course on linear models as well as generalized linear models and their application. Topics include linear regression and modeling, visualization and diagnostics, confidence intervals and hypothesis, analysis of variance, dealing with large number of predictors, and generalized linear models.
 
-- __Instructor__: Gaston Sanchez
+- __Instructor__: [Gaston Sanchez](https://www.gastonsanchez.com)
 
 - __Lecture__: 3 hours of lecture per week
 
